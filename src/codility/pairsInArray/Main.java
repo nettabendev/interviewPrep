@@ -1,6 +1,4 @@
-package pairsInArray;
-
-import java.util.Arrays;
+package codility.pairsInArray;
 
 public class Main {
     public static void main(String[] args) {

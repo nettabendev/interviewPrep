@@ -1,6 +1,4 @@
-package rotatedArray;
-
-import java.lang.reflect.Array;
+package codility.rotatedArray;
 
 public class Solution {
 

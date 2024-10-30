@@ -1,4 +1,4 @@
-package AnagramGroups;
+package neetcode.AnagramGroups;
 
 import java.util.*;
 

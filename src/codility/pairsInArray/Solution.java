@@ -1,6 +1,5 @@
-package pairsInArray;
+package codility.pairsInArray;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**

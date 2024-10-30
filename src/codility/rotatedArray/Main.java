@@ -1,4 +1,4 @@
-package rotatedArray;
+package codility.rotatedArray;
 
 import java.util.Arrays;
 
