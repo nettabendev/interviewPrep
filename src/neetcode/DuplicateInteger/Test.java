@@ -1,4 +1,4 @@
-package codility.DuplicateInteger;
+package neetcode.DuplicateInteger;
 
 public class Test {
     public static void main(String[] args) {

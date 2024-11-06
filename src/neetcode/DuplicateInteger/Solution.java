@@ -1,4 +1,4 @@
-package codility.DuplicateInteger;
+package neetcode.DuplicateInteger;
 
 import java.util.Arrays;
 
